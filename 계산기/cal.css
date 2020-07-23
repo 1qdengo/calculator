@@ -1,0 +1,14 @@
+table {
+    border-collapse: collapse;
+}
+td {
+    padding: 8px;
+    text-align: center;
+}
+input {
+    border: none;
+    text-align: right;
+}
+input:focus {
+   outline: none;
+}
